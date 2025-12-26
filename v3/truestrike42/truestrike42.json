@@ -1,7 +1,7 @@
 {
   "name": "TrueStrike42",
-  "vendorId": "0x5A53",
-  "productId": "0x0000",
+  "vendorId": "0x4243",
+  "productId": "0x5453",
   "matrix": {
     "rows": 4,
     "cols": 12
